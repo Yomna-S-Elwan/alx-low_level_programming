@@ -4,7 +4,7 @@
 /**
 * main - A c file to display a string to the standard err.
 *
-* Description: A c file to display a string to the standard err.
+* Description: A C program to display a string to the standard error.
 *
 * Return - 0 signifying program success
 */
