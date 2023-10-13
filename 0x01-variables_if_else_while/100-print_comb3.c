@@ -4,7 +4,8 @@
  * main - Entry point
  *
  * Description: print all possible different
- *		combinations of two digits
+ *		combinations of two digits.
+ *
  * Return: Always 0 (Success)
 */
 
@@ -27,7 +28,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			digit2--;
+			digit2++;
 		}
 		digit1++;
 	}
