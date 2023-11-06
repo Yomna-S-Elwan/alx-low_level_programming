@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	print("%s\n",__FILE__);
-	return(0);
+	print("%s\n", __FILE__);
+	return (0);
 }
