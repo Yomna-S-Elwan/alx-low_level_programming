@@ -1,1 +1,1 @@
-README file for 0x0A-argc_argv
+README file for alx-low_level_programming repo
